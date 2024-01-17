@@ -2,3 +2,5 @@
 Gait recognition for cattle identification
 
 ## Dataset
+
+## Usage
